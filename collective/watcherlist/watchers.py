@@ -7,7 +7,7 @@ from persistent.list import PersistentList
 from zope.annotation.interfaces import IAnnotations
 from zope.event import notify
 from zope.interface import implements
-import sets
+# import sets
 
 from collective.watcherlist.interfaces import IWatcherList
 from collective.watcherlist.mailer import simple_send_mail
